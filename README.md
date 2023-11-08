@@ -1,16 +1,23 @@
 <h1 align="center">Hi there, I'm Azamat
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">student from Russia 🇷🇺</h3>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonStar32&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+from+Russia+🇷🇺)](https://git.io/typing-svg)<br>
+
+
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)<br>
 ![Leetcode Stats](https://leetcode.card.workers.dev/gurengland?theme=dark&font=baloo&extension=null)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonStar32&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <h3>💬 Social</h3>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) - MoonStar32#1655<br>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) - @m00nstar32<br>
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) - https://instagram.com/_moonstar_3<br>
+          ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) - https://instagram.com/_moonstar_3<br>
 
 
 <h3>📋 Languages:</h3>
@@ -58,6 +65,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
 <h3>🏢 Office:</h3>
 
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
@@ -65,3 +73,19 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
