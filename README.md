@@ -13,11 +13,6 @@
 
 
 
-<h3>💬 Social</h3>
-
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) - MoonStar32#1655<br>
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) - @m00nstar32<br>
-          ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) - https://instagram.com/_moonstar_3<br>
 
 
 <h3>📋 Languages:</h3>
