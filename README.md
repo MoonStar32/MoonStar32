@@ -7,7 +7,7 @@
 
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)<br>
-![Leetcode Stats](https://leetcode.card.workers.dev/gurengland?theme=dark&font=baloo&extension=null)
+![Leetcode Stats](https://leetcode.card.workers.dev/MoonStar32?theme=dark&font=baloo&extension=null)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonStar32&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
